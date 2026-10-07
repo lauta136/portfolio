@@ -1,6 +1,6 @@
 # Portfolio de Lautaro Berca
 
-Portfolio estático inspirado en la estructura, las animaciones y el lenguaje visual de [jzepoldev.com/en](https://jzepoldev.com/en), adaptado con una paleta azul, negra y roja.
+Portfolio estático con una paleta azul, negra y roja.
 
 ## Cómo verlo
 
